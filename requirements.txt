@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+pyyaml
+python-dotenv
+pymongo
+setuptools
+certifi
+scikit-learn
+
+# -e .
